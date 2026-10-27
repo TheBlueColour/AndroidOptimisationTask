@@ -16,8 +16,8 @@ I had previously made a countdown for a game before so I simply used my old code
 
 In the End Screen upon being created it calls the timer number and displays it on screen and then compares it with other numbers to check how long the player has took to display what grade the player will recieve. 
 
-![](images/images14.png)
-![](images/images15.png)
+![](Images/images14.png)
+![](Images/images15.png)
 
 ## Saving/Loading
 
@@ -27,7 +27,7 @@ Upon starting the game it displays a Startmenu where the player can choose to Lo
 
 I adjusted the size and where the buttons are to where the IOS safe areas are and to avoid notches like accidently closing the game. I made the buttons bigger so they are easier to use and moved them away from the edge of the screen.
 
-![](iMAGES/images17.png)
+![](Images/images17.png)
 
 Here's the video I used on guidance:
 
